@@ -11,6 +11,7 @@ Five projects: Profile card, age calculator, receipt total, unit converter, simp
 - Input: year of birth, month of birth, day of birth
 - Output: Present age
 - Used: input, variables, conditional statements, datetime Module, loops, string methods and try and except blocks.
+- Link(Code Running - YouTube): https://youtube.com/shorts/eW8g2OO7_BY?si=LTPWIjpxoh5GjiYH
 
 ## Receipt Total
 - Input: Price of individual item.
