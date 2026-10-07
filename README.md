@@ -5,6 +5,7 @@ Five projects: Profile card, age calculator, receipt total, unit converter, simp
 - Input: User data
 - Output: A formatted display of input.
 - Used: input to get user data, variables to store data, f-strings, conditional statements, while loops and try and except blocks.
+- Link(YouTube)(Code running): https://youtube.com/shorts/CILUO9Mk7PE?si=k53k6yJN3Mu6r3ki
 
 ## Age Calculator
 - Input: year of birth, month of birth, day of birth
