@@ -25,7 +25,7 @@ Five projects: Profile card, age calculator, receipt total, unit converter, simp
 - Used: List, dictionaries, input, conditional statements, print, try and except blocks, f-strings.
 - Link(Code running- YouTube): https://youtube.com/shorts/Ykb7XO4-x18?si=c3oYEpDDooj-sY6N
 
-## Simple Interest
+## Simple Interest Calculator 
 - Input: principal, rate, and time
 - Output: Simple Interest and amount
 - Used: function, input, print, while loop, try and except blocks.
