@@ -19,7 +19,9 @@ Five projects: Profile card, age calculator, receipt total, unit converter, simp
 ## Unit Converter
 - Input: unit type(length or mass), current unit, unit to convert to, value
 - Output: The old value and the newly converted value.
-- Used: List, dictionaries, input, conditional statements, print, try and except blocks
+- Used: List, dictionaries, input, conditional statements, print, try and except blocks, f-strings.
+
+## Simple Interest
 
 
 
