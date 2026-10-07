@@ -29,6 +29,7 @@ Five projects: Profile card, age calculator, receipt total, unit converter, simp
 - Input: principal, rate, and time
 - Output: Simple Interest and amount
 - Used: function, input, print, while loop, try and except blocks.
+- Link(Code running - YouTube): https://youtube.com/shorts/tE11NJ_-kVk?si=mz_W6f0NivvxF7s-
 
 
 Ran in: Pydroid 3
