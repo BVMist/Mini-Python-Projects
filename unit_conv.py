@@ -10,7 +10,7 @@ unit_conv_mass = {'kg': {'pounds': 2.205, 'g': 1000}, 'pounds': {'kg': 0.454, 'g
 
 while True:
     while True:
-        unit_type = input("Unit type(length or mass): ").strip()
+        unit_type = input("Unit type(length or mass): ").strip().lower()
         if unit_type in ['length','mass']:
             break
             
