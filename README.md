@@ -5,3 +5,11 @@ Five projects: Profile card, age calculator, receipt total, unit converter, simp
 - Input: User data
 - Output: A formatted display of input.
 - Used: input to get user data, variables to store data, conditional statements, while loops and try and except blocks.
+
+## Age Calculator
+- Input: year of birth, month of birth, day of birth
+- Output: Present age
+- Used: input, variables, conditional statements, datetime Module, loops, and try and except blocks.
+
+## Receipt Total
+
