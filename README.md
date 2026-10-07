@@ -17,6 +17,7 @@ Five projects: Profile card, age calculator, receipt total, unit converter, simp
 - Input: Price of individual item.
 - Output: Sum total of the prices.
 - Used: input, while loops, variable, print.
+- Link(Code running - YouTube): https://youtube.com/shorts/T9sK-eTX3Xs?si=WYQXVL2BhhQPysa_
 
 ## Unit Converter
 - Input: unit type(length or mass), current unit, unit to convert to, value
